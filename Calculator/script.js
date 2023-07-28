@@ -1,3 +1,4 @@
+//js code for the calculator
 // let inputs= document.getElementById('input');
 let buttons=document.querySelectorAll('.button');
 
